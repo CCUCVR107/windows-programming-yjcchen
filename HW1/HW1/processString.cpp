@@ -18,7 +18,7 @@ int getAscendingStr(string& inputStr)
 {
 	
 	/// Please fill your code here
-
+	aaaa
 
 	return 0;
 }
